@@ -11,9 +11,9 @@ As well as view performance and accuracy metrics and plot example errors.
 
 The Deep learning models available to the user are
  
- -LeNet
+ - LeNet
  
- -AlexNet
+ - AlexNet
 
 They have been coded out of the box using the popular machine learning libary TensorFlow and the user needs
 to only modify certain hyper parameters like:
