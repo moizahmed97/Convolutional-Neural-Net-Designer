@@ -27,7 +27,7 @@ to only modify certain hyper parameters like:
 
 Credits : 
 Project developed by 
-- Naser Al Ruwais 
+- Naser Al Ruwais [Github](https://github.com/Nasser-ALRuwais)
 - Moiz Ahmed 
 
 Plotting functions taken from 
