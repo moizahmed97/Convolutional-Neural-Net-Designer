@@ -13,7 +13,12 @@ The Deep learning models available to the user are
  
  - LeNet
  
+ ![LeNet Architecture](LeNet.png)
+ 
  - AlexNet
+  
+  ![AlexNet Architecture](AlexNet.png)
+
 
 They have been coded out of the box using the popular machine learning libary TensorFlow and the user needs
 to only modify certain hyper parameters like:
